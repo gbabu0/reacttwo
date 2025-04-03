@@ -1,0 +1,10 @@
+.h1{
+  color: black;
+  font-size: 3rem;
+  font-style: italic;
+}
+button{
+  width: 50px;
+  color: beige;
+  background-color: black;
+}
