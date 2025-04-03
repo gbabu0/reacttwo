@@ -21,7 +21,7 @@ function Footer() {
 
   return (
    <>
-   <h1>Use Transition</h1>
+   <h1>Use Transition and hello</h1>
 
    
    <input type="text" value={Inputs} onChange={handleChange} />
