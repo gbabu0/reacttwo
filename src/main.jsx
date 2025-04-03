@@ -6,18 +6,17 @@ import './index.css'
 // import {Header1,Hell }from './Header.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.js'
-import CB from './CB'
-import Summa from './Summa'
+// import CB from './CB'
+// import Summa from './Summa'
 // import Navbar from './Navbar.jsx'
 // import Home from './Home.jsx'
 // import About from './About.jsx'
 // import Asie from './Asie.jsx'
-import Component01 from './Component01.jsx'
-import CallBack from './CallBack.jsx'
-import Get from './Get.jsx'
+// import Component01 from './Component01.jsx'
+// import CallBack from './CallBack.jsx'
+// import Get from './Get.jsx'
 // import Navbar from './Navbar.jsx'
-import ToDos from './ToDos.jsx'
-import { Ex12 } from './ex12.jsx'
+// import ToDos from './ToDos.jsx'
 import Footer from './Footer.jsx'
 
 
@@ -38,7 +37,7 @@ createRoot(document.getElementById('root')).render(
 {/* <CallBack /> */}
 
 <Footer />
-{/* <Ex12 /> */}
+
 
 
 
